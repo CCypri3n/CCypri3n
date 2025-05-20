@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CCypri3n
-- 👀 I’m interested in minecraft mods
-- 🌱 I’m currently learning JAVA and the use of Mcreator
-- 💞️ I’m looking to collaborate on MODS
+- 👀 I’m interested in everything, from Webdesign, Python to Games and Mods
+- 🌱 I’m currently learning CSS and Javascript.
+- 💞️ I’m looking to collaborate on anything, always up for a challenge.
 - 📫 How to reach me: Cypri3n.dev#7856
 
 <!---
